@@ -79,9 +79,9 @@ http://127.0.0.1:5000
 
 ## 📸 Screenshots
 
-![Home Page](screenshots/image1.png)
-![Registration Form](screenshots/image2.png)
-![Successful Registration](screenshots/image3.png)
+![Home Page](image1.png)
+![Registration Form](image2.png)
+![Successful Registration](image3.png)
 
 ---
 
