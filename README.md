@@ -79,7 +79,7 @@ http://127.0.0.1:5000
 
 ## 📸 Screenshots
 
-![Home Page](image1.png)
+![Home Page](image.png)
 ![Registration Form](image2.png)
 ![Successful Registration](image3.png)
 
